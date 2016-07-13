@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Learzhu\Uguess\UsefulProjects\DIYPicture\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2174171517cbf13a674f5bce2232248dab77bb12">
+        <dex dex="E:\Learzhu\Uguess\UsefulProjects\DIYPicture\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c6120773f26e58badcdf6b3a8522d008b0e3e033\classes.dex" />
+    </item>
+    <item
+        jar="E:\Learzhu\Uguess\UsefulProjects\DIYPicture\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="234fc8dec5b4253c17aa0a0b57d5101818da1c41">
+        <dex dex="E:\Learzhu\Uguess\UsefulProjects\DIYPicture\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a7ae8dbb0021385c8cc982f14c151aad43cedfd8\classes.dex" />
+    </item>
+
+</items>

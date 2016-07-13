@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\texture2.png",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\texture2.png"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edge_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\edge_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gamma_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\gamma_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hslmodify_filter5.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\hslmodify_filter5.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tilereflection_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\tilereflection_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\illusion_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\illusion_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lensflare_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\lensflare_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\image.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner_filter2.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\banner_filter2.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blockprint_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\blockprint_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wave_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\wave_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sepia_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\sepia_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sharp_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\sharp_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hslmodify_filter4.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\hslmodify_filter4.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hslmodify_filter0.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\hslmodify_filter0.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mirror_filter1.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\mirror_filter1.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vintage_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\vintage_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\colorquantize_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\colorquantize_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gaussianblur_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\gaussianblur_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\brightcontrast_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\brightcontrast_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\texturer_filter3.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\texturer_filter3.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\raiseframe_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\raiseframe_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_filter4.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\video_filter4.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\softglow_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\softglow_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ycb_crlinear_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\ycb_crlinear_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reflection2_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\reflection2_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bulge_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\bulge_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\colortone_filter4.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\colortone_filter4.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\colortone_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\colortone_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tilereflection_filter2.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\tilereflection_filter2.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rainbow_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\rainbow_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reflection1_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\reflection1_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\supernova_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\supernova_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\texturer_filter2.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\texturer_filter2.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\brick_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\brick_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radialdistortion_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\radialdistortion_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tint_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\tint_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\noisefilter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\noisefilter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\threedgrid_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\threedgrid_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shift_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\shift_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\texture1.png",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\texture1.png"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\invert_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\invert_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\light_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\light_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blind_filter2.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\blind_filter2.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mosaic_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\mosaic_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hslmodify_filter2.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\hslmodify_filter2.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monitor_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\monitor_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bigbrother_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\bigbrother_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_filter2.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\video_filter2.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\saturationmodity_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\saturationmodity_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vignette_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\vignette_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\waterwave_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\waterwave_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feather_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\feather_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\colortone_filter3.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\colortone_filter3.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oilpaint_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\oilpaint_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ycb_crlinear_filter2.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\ycb_crlinear_filter2.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\relief_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\relief_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hslmodify_filter7.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\hslmodify_filter7.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oldphoto_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\oldphoto_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\threshold_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\threshold_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hslmodify_filter1.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\hslmodify_filter1.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\saturationmodify_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\saturationmodify_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pixelate_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\pixelate_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blackwhite_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\blackwhite_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_filter1.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\video_filter1.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smashcolor_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\smashcolor_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twist_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\twist_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mist_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\mist_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fillpattern_filter1.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\fillpattern_filter1.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mirror_filter2.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\mirror_filter2.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blind_filter1.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\blind_filter1.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\autoadjust_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\autoadjust_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xradiation_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\xradiation_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zoomblur_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\zoomblur_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hslmodify_filter3.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\hslmodify_filter3.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hslmodify_filter6.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\hslmodify_filter6.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\posterize_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\posterize_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\neon_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\neon_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_filter3.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\video_filter3.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hslmodify_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\hslmodify_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nightvision_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\nightvision_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\texturer_filter1.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\texturer_filter1.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner_filter1.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\banner_filter1.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ripple_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\ripple_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\texturer_filter4.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\texturer_filter4.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\texturer_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\texturer_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fillpattern_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\fillpattern_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tilereflection_filter1.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\tilereflection_filter1.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rectmatrix_filter.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\rectmatrix_filter.jpg"
+    },
+    {
+        "merged": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\colortone_filter2.jpg",
+        "source": "E:\\Learzhu\\Uguess\\UsefulProjects\\DIYPicture\\app\\src\\main\\res\\drawable\\colortone_filter2.jpg"
+    }
+]

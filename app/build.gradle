@@ -1,0 +1,22 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 15
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "learzhu.ImageFilter"
+        minSdkVersion 15
+        targetSdkVersion 15
+    }
+
+    compileOptions{
+        encoding "GBK"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
